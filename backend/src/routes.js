@@ -2,7 +2,7 @@ const express = require('express');
 
 const NgoController = require('./controllers/NgoController');
 const IncidentController = require('./controllers/IncidentController');
-const NgoProfileController = require('./controllers/IncidentController');
+const NgoProfileController = require('./controllers/NgoProfileController');
 
 const SessionController = require('./controllers/SessionController');
 
